@@ -2,5 +2,13 @@
   "tasks": {
     "start": "deno run -A server/index.ts",
     "dev": "deno run -A --watch server/index.ts"
+  },
+  "imports":{
+    "jsx": "https://deno.land/x/jsx/mod.ts"
+  },
+  "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment"
   }
 }

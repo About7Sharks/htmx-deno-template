@@ -35,7 +35,9 @@
     "https://deno.land/x/htm@0.2.0/html.tsx": "c2c9e869ce3bb24e741d8057b26594879c039e337eea0d59118b34dfd913b83f",
     "https://deno.land/x/htm@0.2.0/jsx.ts": "007b86a4a993f0629436b594a407e95467d53cfb4b96137a298f244b33cd96a5",
     "https://deno.land/x/htm@0.2.0/mod.ts": "93485a06c930907a40f09eb8d9deadf27aaaa228c5037a24be7a08b82c8b4bee",
+    "https://deno.land/x/html@v1.2.0/mod.ts": "cf4a00358668309fd1b9814a338ddb7cc2c9af466eeab0d5937b09f2b6ffa724",
     "https://deno.land/x/jsx@v0.1.5/mod.ts": "24bb89837fda59c53c12a3c0e464378ca6de9b261dec1df57ba640b1cfed9611",
+    "https://deno.land/x/jsx_to_string@v0.5.0/mod.ts": "72907d8d18be716d477ac42440812bfcfe3c85530d8d5d58b17ba6759bbada64",
     "https://deno.land/x/media_types@v3.0.3/mod.ts": "c12ebcac562696c5679fc8d4f16531ec16349c2e7e9211108b27f0baa534eb62",
     "https://deno.land/x/oak@v10.6.0/application.ts": "37a78bc0464fa677df5c290ee9a30de1e3da7c6e0ce6c2ff4a721455d5d47b6b",
     "https://deno.land/x/oak@v10.6.0/body.ts": "80ef7b8e7bb6bd7907ecdfb9148bffdbde10f9d3be9336d84075038473f804a1",
@@ -73,9 +75,13 @@
     "https://deno.land/x/oak@v10.6.0/tssCompare.ts": "27f45f507ef21ba7b727b6c66b491543e6e1815c17194bf0b1d7a1ea5ab8027b",
     "https://deno.land/x/oak@v10.6.0/util.ts": "090f6fbc994a91709560184cdde0d9e72056a41e620da7cde84011e11e6393a3",
     "https://deno.land/x/path_to_regexp@v6.2.0/index.ts": "e94c04a44bbecac99ff2db2d831afe98b423e627b775cb57fc7935f848c64c51",
+    "https://esm.sh/preact@10.15.1/": "2b79349676a4942fbcf835c4efa909791c2f0aeca195225bf22bac9866e94b4e",
     "https://esm.sh/preact@10.17.0/jsx-runtime": "917a2e65faf19e107546f166fa1284a8921428b2deecb5f4982d2bfbba64a16a",
+    "https://esm.sh/preact@10.17.1": "d9d10d95cd047fd2c26bb68e760a87d3747fafc64a1e54049095682c69c7491a",
+    "https://esm.sh/stable/preact@10.15.1/denonext/preact.mjs": "30710ac1d5ff3711ae0c04eddbeb706f34f82d97489f61aaf09897bc75d2a628",
     "https://esm.sh/stable/preact@10.17.0/denonext/jsx-runtime.js": "52d459c5e252420398c636a19d1ea12dc6435c16a9c93c44483fb6750bc7b1c4",
     "https://esm.sh/stable/preact@10.17.0/denonext/preact.mjs": "38d273934e973d9698e98f053e89c1233b1102baf9800ceef0e22781c2702395",
+    "https://esm.sh/stable/preact@10.17.1/denonext/preact.mjs": "0f2f159289b4502eea839f4b57cef910ad03d63213ac5301e6767326b060d8f6",
     "https://raw.githubusercontent.com/jshttp/mime-db/v1.52.0/db.json": "85c8e1ba609079947c8df83c092900ab0226e1d7b60e5e7105fb7dd701833263"
   }
 }
