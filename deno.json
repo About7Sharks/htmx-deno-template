@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "start": "deno run -A server/index.ts",
+    "dev": "deno run -A --watch server/index.ts"
+  }
+}
